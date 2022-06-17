@@ -1,2 +1,7 @@
 # libft
-42 Core Curriculum - Rank 0 - 1st project
+42 Core Curriculum
+Level 0
+1st project
+Passed with 100% (Mandatory part)
+
+## Use
