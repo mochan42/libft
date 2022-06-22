@@ -1,7 +1,7 @@
 # libft
 * 42 Core Curriculum<br>
 * Level 0 in the Holy Graph<br>
-* Passed with 100% (Mandatory part)<br>
+* Passed with 100% (Mandatory part) on 19<sup>th</sup> Sep 2021<br>
 * Tested OK with : war-machine, unit-test and Tripouille tester<br><br>
 
 ## Use
