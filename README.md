@@ -6,8 +6,8 @@
 
 ## Use
 
-Clone the repository in your terminal:<br>
-`git clone https://github.com/mochan42/libft.git`
+Clone the repository in your terminal and create libft folder:<br>
+`git clone https://github.com/mochan42/libft.git libft`
 
 Enter into the directory `libft`:<br>
 `cd libft`
