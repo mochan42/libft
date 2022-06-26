@@ -14,3 +14,5 @@ Enter into the directory `libft`:<br>
 
 Compile the .c file :<br>
 `make`
+
+NB: the main files are used to test how each function work. Feel free to modify them to your own needs for testing.
